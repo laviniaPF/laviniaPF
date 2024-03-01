@@ -1,5 +1,5 @@
 ### 🌺 Oi bem-vinddo ao meu perfil 🌺
-
+Sou estudante do cueso de progamação
 
 <!--
 **laviniaPF/laviniaPF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
